@@ -1,0 +1,26 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "HW4",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evelin Schwartz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engine": {
+    "node": "14.x"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITEC660/homework-4-schwar13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ITEC660/homework-4-schwar13/issues"
+  },
+  "homepage": "https://github.com/ITEC660/homework-4-schwar13#readme"
+}
